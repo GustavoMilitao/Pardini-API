@@ -1,0 +1,8 @@
+{
+    "users": [{
+        "id": "1",
+        "name": "Gustavo",
+        "email": "gustavo.h.militao@gmail.com",
+        "birthdate": "11/06/1995"
+    }]
+}
