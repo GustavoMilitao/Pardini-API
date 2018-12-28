@@ -1,0 +1,31 @@
+{
+  "name": "pardini_api",
+  "version": "1.0.0",
+  "description": "API for Hermes Pardini data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMilitao/Pardini_API.git"
+  },
+  "keywords": [
+    "Pardini",
+    "Hermes",
+    "Hermes_Pardini",
+    "API",
+    "Hermes_API",
+    "Pardini_API",
+    "Hermes_Pardini_API"
+  ],
+  "author": "Gustavo Henrique Almeida Militão Do Carmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMilitao/Pardini_API/issues"
+  },
+  "homepage": "https://github.com/GustavoMilitao/Pardini_API#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
